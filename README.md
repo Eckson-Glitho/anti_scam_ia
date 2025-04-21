@@ -19,6 +19,7 @@ On va s'attaquer aux anrnaqueurs sur internet et au téléphone. On souhaite fai
 * Reconnaisance vocale de l'arnaqueur
 * TTS (Text to speach) Pour parler à l'arnaqueur.
 
+
 ## Plus avancé
 
 * Reconnaissance de ton / emotion
