@@ -1,0 +1,10 @@
+/.venv
+/.vscode
+/private
+/private/*
+/cache
+key.json
+nebius_api_key.txt
+/*.mp3
+/*.zip
+/*.flac
